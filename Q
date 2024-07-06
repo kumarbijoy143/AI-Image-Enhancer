@@ -1,0 +1,4 @@
+cd path/to/your/ai-image-enhancer
+git init
+git add .
+git commit -m "Initial commit"
